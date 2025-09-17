@@ -1,6 +1,6 @@
 # Task Manager
 
-A simple task management application written in C, with basic functionalities such as adding, removing, listing, completing, and filtering tasks, as well as saving to and loading from a file.
+A simple task management application written in C, using an dynamic array, with basic functionalities such as adding, removing, listing, completing, and filtering tasks, as well as saving to and loading from a file.
 
 ---
 
